@@ -1,0 +1,4 @@
+* source PSCPICE
+V_V1         N00139 0 DC 0Vdc AC 1Vac 
+C_C1         N00139 N00146  1n  TC=0,0 
+R_R1         0 N00146  750 TC=0,0 

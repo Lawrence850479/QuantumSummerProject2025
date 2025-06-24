@@ -1,0 +1,109 @@
+[22:59:51.440000] Periodic Lic check successful
+[22:59:51.440000] Feature usage summary:
+[22:59:51.440000] OrCAD_X_Professional_Plus
+
+PATH VARIABLE
+
+c:\cadence\orcadx_24.1/tools/jre/bin/client
+c:\cadence\orcadx_24.1\share\orApps\OrCaptureApp\..\..\..\tools\bin
+c:\cadence\orcadx_24.1/tools/jre/bin/client
+c:\cadence\orcadx_24.1\tools\bin\
+C:\windows\system32
+C:\windows
+C:\windows\System32\Wbem
+C:\windows\System32\WindowsPowerShell\v1.0\
+C:\windows\System32\OpenSSH\
+C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+C:\Program Files\HP\HP One Agent
+C:\Program Files\Git\cmd
+C:\Users\lhlee\AppData\Local\Programs\Python\Python313\Scripts\
+C:\Users\lhlee\AppData\Local\Programs\Python\Python313\
+C:\Users\lhlee\AppData\Local\Microsoft\WindowsApps
+C:\Users\lhlee\AppData\Local\Programs\Microsoft VS Code\bin
+
+SESSION LOG
+
+--------------- INFO(ORPROBE-3209): Simulation Profile:  SCHEMATIC1-Problem2 ---------------
+INFO(ORPROBE-3183): Simulation running...
+
+COMMAND WINDOW
+
+Initializing Scripting...
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCoreLossAppinit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspMatlabMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspinit.tcl
+
+
+
+[23:06:03.399000] Periodic Lic check successful
+[23:06:03.399000] Feature usage summary:
+[23:06:03.399000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+--------------- INFO(ORPROBE-3209): Simulation Profile:  SCHEMATIC1-Problem2 ---------------
+INFO(ORPROBE-3183): Simulation running...
+
+COMMAND WINDOW
+
+Initializing Scripting...
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCoreLossAppinit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspMatlabMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspinit.tcl
+
+
+
+[23:17:55.037000] Periodic Lic check successful
+[23:17:55.037000] Feature usage summary:
+[23:17:55.037000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+
+COMMAND WINDOW
+
+Initializing Scripting...
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCoreLossAppinit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspMatlabMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspinit.tcl
+
+
+
+Lic Summary:
+[10:57:20.367000] Cdslmd servers:C:\Users\lhlee\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[10:57:20.371000] Feature usage summary:
+[10:57:20.371000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+--------------- INFO(ORPROBE-3209): Simulation Profile:  SCHEMATIC1-Problem4 ---------------
+INFO(ORPROBE-3183): Simulation running...
+** Profile: "SCHEMATIC1-Problem4"  [ c:\users\lhlee\appdata\roaming\spb_data\cdssetup\workspace\projects\recitation 3\Recitation 3-P
+Reading and checking circuit
+Circuit read in and checked, no errors
+Calculating bias point
+Bias point calculated
+  Total job time (using Solver 1)   =         .02
+
+INFO(ORPROBE-3190): Simulation complete
+
+COMMAND WINDOW
+
+Initializing Scripting...
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspCoreLossAppinit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspMatlabMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/pspice/tclscripts/pspAutoLoad/pspinit.tcl
+
+

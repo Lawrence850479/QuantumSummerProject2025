@@ -1,0 +1,88 @@
+
+**** 06/21/25 22:39:22 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Problem1"  [ c:\users\lhlee\appdata\roaming\spb_data\cdssetup\workspace\projects\recitation 3\Recitation 3-P
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Problem1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\lhlee\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\24.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source RECITATION 3
+V_V1         N14613 0 5V
+E_U1         N14708 0 VALUE {LIMIT(V(N14637,N14651)*1E6,-15V,+15V)}
+R_R2         N14613 N14651  2k TC=0,0 
+R_R3         N14613 N14637  3k TC=0,0 
+R_R4         N14651 N14708  1k TC=0,0 
+R_R5         0 N14637  500 TC=0,0 
+
+**** RESUMING Problem1.cir ****
+.END
+
+**** 06/21/25 22:39:22 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Problem1"  [ c:\users\lhlee\appdata\roaming\spb_data\cdssetup\workspace\projects\recitation 3\Recitation 3-P
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N14613)    5.0000 (N14637)     .7143 (N14651)     .7143 (N14708)   -1.4286 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -3.571E-03
+
+    TOTAL POWER DISSIPATION   1.79E-02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 06/21/25 22:39:22 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Problem1"  [ c:\users\lhlee\appdata\roaming\spb_data\cdssetup\workspace\projects\recitation 3\Recitation 3-P
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .09
+

@@ -1,0 +1,86 @@
+
+**** 06/14/25 23:32:16 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\lhlee\AppData\Roaming\SPB_Data\cdssetup\workspace\projects\recitation #2\recitation #2-psp
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\lhlee\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\24.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source RECITATION #2
+E_U1         N14493 0 VALUE {LIMIT(V(0,N14440)*1E6,-15V,+15V)}
+R_R1         N14436 N14440  1k TC=0,0 
+R_R2         N14440 N14493  250 TC=0,0 
+V_V1         N14436 0  
++SIN 0 3.75 1k 0 0 0
+
+**** RESUMING bias.cir ****
+.END
+
+**** 06/14/25 23:32:16 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\lhlee\AppData\Roaming\SPB_Data\cdssetup\workspace\projects\recitation #2\recitation #2-psp
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N14436)    0.0000 (N14440)    0.0000 (N14493)    0.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1         0.000E+00
+
+    TOTAL POWER DISSIPATION   0.00E+00  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 06/14/25 23:32:16 ***** PSpice 24.1.0 (17 April 2025) **** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\lhlee\AppData\Roaming\SPB_Data\cdssetup\workspace\projects\recitation #2\recitation #2-psp
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =        0.00
+
