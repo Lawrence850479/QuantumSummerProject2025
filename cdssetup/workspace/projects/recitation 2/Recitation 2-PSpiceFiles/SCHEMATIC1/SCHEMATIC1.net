@@ -1,6 +1,0 @@
-* source RECITATION 2
-E_U1         N14470 0 VALUE {LIMIT(V(0,N14449)*1E6,-15V,+15V)}
-V_V1         N14445 0  AC 0
-+SIN 0 2.5v 1k 0 0 0
-R_R1         N14445 N14449  2k TC=0,0 
-R_R2         N14449 N14470  500 TC=0,0 

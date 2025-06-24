@@ -1,9 +1,0 @@
-[INFO][2025:06:07-21:51:11:394] - Number of files added:47
-[INFO][2025:06:07-21:51:11:709] - Number of files deleted:0
-[INFO][2025:06:07-21:51:11:712] - Folder Path:C:/Users/lhlee/AppData/Roaming/SPB_Data/cdssetup/workspace
-[INFO][2025:06:07-21:51:11:740] - Downloading component database
-[INFO][2025:06:07-21:51:11:771] - Home:C:\Users\lhlee\AppData\Roaming\SPB_Data
-[INFO][2025:06:07-21:51:11:772] - UserName:lawrence.lee@my.utsa.edu
-[INFO][2025:06:07-21:51:11:788] - Server is running @ http://0.0.0.0:60932 at time : Sat Jun 07 2025 21:51:11 GMT-0500 (Central Daylight Time) Tool:Capture
-[INFO][2025:06:07-21:51:11:810] - Port:60932 Cloud Server - https://pcb.cadence.com
-[INFO][2025:06:07-21:51:11:832] - Logging State: OFF

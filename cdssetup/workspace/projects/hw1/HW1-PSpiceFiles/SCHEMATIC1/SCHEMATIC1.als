@@ -1,5 +1,0 @@
-.ALIASES
-R_R1            R1(1=N00155 2=N00136 ) CN @HW1.SCHEMATIC1(sch_1):INS26@HW1.R_1.Normal(chips)
-C_C1            C1(1=0 2=N00136 ) CN @HW1.SCHEMATIC1(sch_1):INS51@ANALOG.C.Normal(chips)
-V_V1            V1(+=N00155 -=0 ) CN @HW1.SCHEMATIC1(sch_1):INS92@HW1.VDC_0.Normal(chips)
-.ENDALIASES

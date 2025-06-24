@@ -1,5 +1,0 @@
-* source HW PROBLEM #3
-E_U1         N14394 0 VALUE {LIMIT(V(N14484,N14415)*1E6,-15V,+15V)}
-R_R1         N14415 N14394  1k TC=0,0 
-R_R2         0 N14415  2k TC=0,0 
-V_V1         N14484 0 3v
